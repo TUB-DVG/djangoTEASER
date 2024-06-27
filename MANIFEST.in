@@ -1,0 +1,4 @@
+include README.rst
+recursive-include teaser_citydb/static *
+recursive-include teaser_citydb/templates *
+recursive-include docs *
